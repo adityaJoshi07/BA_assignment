@@ -1,5 +1,4 @@
-# List down the major features for the ecommerce portal for end customers and for vendors
-
+# List of the Major Features for the Ecommerce Portal for End Customers and for Vendors
 ## In Customer portal:
 ### 1.	onboarding using social sign in
  Easy onboarding using social sign in like using google or Facebook for quick account creation. For manual log in ask for minimal       details so that customer won’t consider manual login as a burden.
@@ -49,10 +48,9 @@ The platform should integrate payment gateways like Stripe, Razorpay, and PayPal
 "Your Rank: #15 IN bASKETBALL SHOES (Top 10%)"
 ``` 
 
-# Define user journey for customer onboarding and vendor onboarding
+# User Journey for Customer Onboarding and Vendor Onboarding
 
-
-## User Journey:
+## User Journey for Customer Onboarding:
 ### 1. Account Creation and Login
   The customer will sign up using quick social sign-ins like Google or Facebook for easy registration. Then, if they prefer to log           in manually, they will provide their full name, email and password.
 
@@ -75,7 +73,7 @@ The platform should integrate payment gateways like Stripe, Razorpay, and PayPal
   The customer will navigate through navigation bar to utilize options like personal data, address book, orders, wishlists, customer         support etc.
 
    
-# Vendor Journey:
+## User Journey for Vendor Onboarding:
 ### 1.	Onboarding using Guided Wizard
   The vendor start the onboarding process by following a step-by-step guided wizard.
 ### 2.	Checking Progress
